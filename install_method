@@ -1,0 +1,12 @@
+1.isntall python at:https://www.python.org
+  choose a location that is easy to remember
+  
+  input path=%path%;d:\Python  at cmd
+  
+  then input python at cmd
+  
+  we get:Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+         Type "help", "copyright", "credits" or "license" for more information.
+         
+2.install PyCharm
+  here is the tutorial:https://www.runoob.com/w3cnote/pycharm-windows-install.html
